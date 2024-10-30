@@ -1,25 +1,30 @@
 # Problem Statement: Alpha Online Shopping System
 
 ## Current Issue
-- Users face challenges with online shopping platforms, such as:
-  - Difficulty in navigating and finding products efficiently.
-  - Lack of personalized recommendations based on user preferences.
-  - Complicated or time-consuming checkout processes.
+- Online shopping platforms often face multiple issues that hinder a smooth shopping experience, including:
+  - **Complex Navigation**: Users may struggle to find specific products quickly due to poorly organized categories or limited search capabilities.
+  - **Limited Product Information**: Many platforms do not provide detailed descriptions, specifications, or quality images, leading to customer dissatisfaction.
+  - **Lack of Useful Product Suggestions**: Generic or irrelevant recommendations make it harder for customers to find products they’re interested in.
+  - **Inaccurate Stock Availability**: Customers may encounter "out-of-stock" messages after selecting a product, leading to frustration and potential loss of sales.
+  - **Ineffective Inventory Management**: Sellers and admins lack an easy way to manage product listings, prices, and stock quantities, impacting inventory accuracy and availability.
+  - **Role-Specific Challenges**: Current platforms rarely differentiate between the needs of admins, sellers, and customers, leading to cluttered interfaces and lack of specific permissions.
+  - **Complicated Checkout Process**: A lengthy or confusing checkout can lead to abandoned carts and a negative user experience.
 
 ## Project Context
-- The "Alpha Online Shopping" system is aimed at:
-  - Enhancing the online shopping experience for a broad range of users.
-  - Offering a platform that caters to users looking for a seamless and intuitive shopping experience.
-  - Potentially focusing on a specific type of product (e.g., electronics, fashion) or keeping it general for all products.
+- "Alpha Online Shopping" aims to create a simple and organized platform that offers a tailored experience for different types of users: Admin, Seller, and Customer. This approach will make it easier for customers to shop, sellers to manage their products, and admins to oversee the platform.
 
-## Goal of the Project
-- To create an online shopping platform that:
-  - Provides easy navigation and product discoverability.
-  - Delivers personalized recommendations to improve user satisfaction.
-  - Simplifies the checkout process for a smooth, efficient transaction experience.
+## Project Goal
+- Create a shopping platform that:
+  - **User Roles**:
+    - **Admin**: Has full control, including managing user accounts, overseeing all products, and performing CRUD operations on products from all sellers.
+    - **Seller**: Can add, update, and delete their products in the system, with access to their inventory and sales data.
+    - **Customer**: Can browse products, view availability, add items to a cart, and complete purchases.
+  - **Product Recommendations**: Offers simple recommendations for customers, such as:
+    - Best Sellers, Trending Products, and New Arrivals
+  - **Inventory Information**: Displays clear stock availability to improve the shopping experience.
+  - **CRUD Functionality on Products**:
+    - Allows admins to perform full CRUD on all products and sellers to manage their listings (create, read, update, and delete products).
+  - **Checkout Process**: Provides customers with a smooth, simple checkout process.
 
 ## Desired Outcome
-- By solving these challenges, the "Alpha Online Shopping" system aims to:
-  - Improve overall customer satisfaction and engagement.
-  - Encourage repeat usage by providing a user-friendly, enjoyable shopping experience.
-  - Stand out in the competitive online shopping market by focusing on personalization and ease of use.
+- Improve user satisfaction by creating a well-structured platform with tailored access for admins, sellers, and customers. This includes an easy product catalog update process, helpful product recommendations, and accurate inventory information to support user needs and platform growth.
