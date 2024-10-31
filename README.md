@@ -30,6 +30,7 @@
 - Improve user satisfaction by creating a well-structured platform with tailored access for admins, sellers, and customers. This includes an easy product catalog update process, helpful product recommendations, and accurate inventory information to support user needs and platform growth.
 
 # Architecture
+URL- [Miro](https://miro.com/app/board/uXjVLLaCK1s=/?share_link_id=877918259717)
 ![image info](./rsc/ArchitectureDiagram.png)
 # Class Diagram
 # ER Diagram
