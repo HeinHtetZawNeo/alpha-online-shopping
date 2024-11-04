@@ -13,27 +13,11 @@
 			"ownedElements": [
 				{
 					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_id": "AAAAAAGS6EXFweDX1fc=",
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Main",
-					"defaultDiagram": true,
-					"ownedViews": [
-						{
-							"_type": "UMLTextBoxView",
-							"_id": "AAAAAAGS43+W69vvCc0=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"left": 104,
-							"top": 128,
-							"width": 60,
-							"height": 4536,
-							"text": "Problem Statement: Alpha Online Shopping System\nCurrent Issue\nOnline shopping platforms often face multiple issues that hinder a smooth shopping experience, including:\nComplex Navigation: Users may struggle to find specific products quickly due to poorly organized categories or limited search capabilities.\nLimited Product Information: Many platforms do not provide detailed descriptions, specifications, or quality images, leading to customer dissatisfaction.\nLack of Useful Product Suggestions: Generic or irrelevant recommendations make it harder for customers to find products they’re interested in.\nInaccurate Stock Availability: Customers may encounter \"out-of-stock\" messages after selecting a product, leading to frustration and potential loss of sales.\nIneffective Inventory Management: Sellers and admins lack an easy way to manage product listings, prices, and stock quantities, impacting inventory accuracy and availability.\nRole-Specific Challenges: Current platforms rarely differentiate between the needs of admins, sellers, and customers, leading to cluttered interfaces and lack of specific permissions.\nComplicated Checkout Process: A lengthy or confusing checkout can lead to abandoned carts and a negative user experience.\nProject Context\n\"Alpha Online Shopping\" aims to create a simple and organized platform that offers a tailored experience for different types of users: Admin, Seller, and Customer. This approach will make it easier for customers to shop, sellers to manage their products, and admins to oversee the platform.\nProject Goal\nCreate a shopping platform that:\nUser Roles:\nAdmin: Has full control, including managing user accounts, overseeing all products, and performing CRUD operations on products from all sellers.\nSeller: Can add, update, and delete their products in the system, with access to their inventory and sales data.\nCustomer: Can browse products, view availability, add items to a cart, and complete purchases.\nProduct Recommendations: Offers simple recommendations for customers, such as:\nBest Sellers, Trending Products, and New Arrivals\nInventory Information: Displays clear stock availability to improve the shopping experience.\nCRUD Functionality on Products:\nAllows admins to perform full CRUD on all products and sellers to manage their listings (create, read, update, and delete products).\nCheckout Process: Provides customers with a smooth, simple checkout process.\nDesired Outcome\nImprove user satisfaction by creating a well-structured platform with tailored access for admins, sellers, and customers. This includes an easy product catalog update process, helpful product recommendations, and accurate inventory information to support user needs and platform growth.\n"
-						}
-					]
+					"name": "DomainClassDiagram"
 				}
 			]
 		}
