@@ -35,5 +35,5 @@ URL- [Miro](https://miro.com/app/board/uXjVLLaCK1s=/?share_link_id=877918259717)
 # Class Diagram
 # ER Diagram
 
-#URLs for Services
-- [User Service](https://miro.com/app/board/uXjVLLaCK1s=/?share_link_id=877918259717)
+# URLs for Services
+- [User Service](https://github.com/HeinHtetZawNeo/alpha-online-shopping-usrsvc)
