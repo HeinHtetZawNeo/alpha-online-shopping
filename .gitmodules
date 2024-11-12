@@ -4,3 +4,9 @@
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/HeinHtetZawNeo/alpha-online-shopping-usrsvc.git
+[submodule "AlphaOls_ApiGateway"]
+	path = AlphaOls_ApiGateway
+	url = https://github.com/HeinHtetZawNeo/alpha-online-shopping-api-gateway.git
+[submodule "AlphaOls_UsrSvc"]
+	path = AlphaOls_UsrSvc
+	url = https://github.com/HeinHtetZawNeo/alpha-online-shopping-usrsvc.git
