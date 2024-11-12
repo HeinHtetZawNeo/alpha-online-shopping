@@ -1,0 +1,6 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/HeinHtetZawNeo/alpha-online-shopping-api-gateway.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/HeinHtetZawNeo/alpha-online-shopping-usrsvc.git
