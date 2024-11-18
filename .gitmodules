@@ -10,3 +10,6 @@
 [submodule "AlphaOls_UsrSvc"]
 	path = AlphaOls_UsrSvc
 	url = https://github.com/HeinHtetZawNeo/alpha-online-shopping-usrsvc.git
+[submodule "AlphaOls_GatewayDiscoveryService"]
+	path = AlphaOls_GatewayDiscoveryService
+	url = https://github.com/HeinHtetZawNeo/alpha-online-shopping-gateway-discovery-service.git
