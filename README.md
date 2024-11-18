@@ -37,3 +37,12 @@ URL- [Miro](https://miro.com/app/board/uXjVLLaCK1s=/?share_link_id=877918259717)
 
 # URLs for Services
 - [User Service](https://github.com/HeinHtetZawNeo/alpha-online-shopping-usrsvc)
+
+# API Design
+- {host}/api/v1/auth/login
+
+- POST {host}/api/v1/(a|s|c)/register
+- GET {host}/api/v1/(a|s|c)/profile
+- GET {host}/api/v1/a/users
+- GET {host}/api/v1/a/users/{userId}
+- PUT {host}/api/v1/(a|s|c)/update-password
